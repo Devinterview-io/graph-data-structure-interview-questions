@@ -4,7 +4,7 @@
 
 Check out our carefully selected list of **basic** and **advanced** Graph Theory questions and answers to be well-prepared for your tech interviews in 2024.
 
-![Graph Theory Decorative Image](https://storage.googleapis.com/dev-stack-app.appspot.com/blogImg/graphTheory.png?GoogleAccessId=firebase-adminsdk-bgeaf%40dev-stack-app.iam.gserviceaccount.com&Expires=1698605630&Signature=ZdvFXS7cYUZQnrSic9s66g64ca8%2Fy5UkzZvan0MLiVPiDH1oWTJo1EdSRvfeMYu4%2FcT32jdDungDwJiWS69DFSOxKTcQ9gF9XBe9P9iyZvrkEgsq9WUNez24PldDTIqE3o5cdIUW2k7gv53riK7szmFGGEAN2SXF8gv%2BVhOv93lR6oku21BtViNCJzF64HRxwV0gaZ9m46OF0rf%2FkNTyPzGZSAdELJ%2F0sSXwcwvDn2Z4dh7SNLolMOY%2BF7yoM1Ggsk%2B7fZobhedtF5RiNBX%2F00EI47EtS59d7Ulz8Q6Yj8dGq55ivqEkt%2BrMRDhWIQXo8z3xzb2QP6TlWrVhF9NWYQ%3D%3D)
+![Graph Theory Decorative Image](https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/blogImg%2FgraphTheory.png?alt=media&token=c8cc625e-9d11-40e2-85b6-72014a67744a&_gl=1*13wtkkg*_ga*OTYzMjY5NTkwLjE2ODg4NDM4Njg.*_ga_CW55HF8NVT*MTY5ODYwNTk1NS4xOTAuMS4xNjk4NjA3MjUzLjIzLjAuMA..)
 
 👉🏼 You can also find all answers here: [Devinterview.io - Graph Theory](https://devinterview.io/data/graphTheory-interview-questions)
 
