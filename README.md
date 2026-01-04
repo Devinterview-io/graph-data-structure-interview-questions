@@ -1,4 +1,4 @@
-# 50 Essential Graph Data Structure Interview Questions in 2025
+# 50 Essential Graph Data Structure Interview Questions in 2026
 
 <div>
 <p align="center">
